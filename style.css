@@ -1,9 +1,19 @@
-a {
-  color: #dea080;
-  text-decoration: none;
+#introducao {
+  color: gold;
 }
 
-a {
-  color: tomato;
-  font-site: 32px;
+.design {
+  color: red;
+}
+
+.azul {
+  color: blue;
+}
+
+.grande {
+  font-size: 32px;
+}
+
+.underline {
+  text-decoration: underline;
 }
