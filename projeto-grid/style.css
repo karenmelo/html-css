@@ -31,4 +31,8 @@ h2 {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;
+  height: 800px;
+  /* justify-content: space-around;
+  align-content: end; */
+  place-content: center space-evenly;
 }
